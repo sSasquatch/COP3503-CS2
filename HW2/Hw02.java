@@ -11,7 +11,7 @@ import java.util.Random;
 
 /**
  *
- * @author Anthony
+ * @author 
  */
 public class Hw02 {
 
