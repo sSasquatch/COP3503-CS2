@@ -15,7 +15,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Anthony
+ * @author 
  */
 public class Hw01 {
 
