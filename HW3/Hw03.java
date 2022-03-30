@@ -10,7 +10,7 @@ import java.io.IOException;
 
 /**
  *
- * @author Anthony
+ * @author 
  */
 public class Hw03 {
 
